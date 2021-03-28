@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 `$(whoami)`
 
 
-I am a DevOps consulant  ( 🥑 ) at [Slalom](https://slalom.com). Advocate for developing software the right way.
+I am a DevOps consulant  at [Slalom](https://slalom.com). Advocate for developing software the right way.
 Can hold a conversation on DevSecOps, Kubernetes, Test Automation and the few buzzwords which follow them.
 Focussed on client enablement with agile delivery. 
+
+
+- 🔭 I’m currently working on supporting clients on their agile and cloud adoption journey
+- 🌱 I’m currently learning how to provision AWS infrastructure using AWS CDK & python.
+- 🤔 I’m looking for help with discussions around IAC and cloud in general
+- 💬 Ask me about AWS , infrastructure as Code and feedback loops
 
 
 
