@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 `$(whoami)`
 
 
-I am a DevOps consultant  at [Slalom](https://slalom.com). Advocate for developing software the right way.
+I am a DevOps consultant  at [AWS](https://aws.amazon.com/). Advocate for developing software the right way.
 Can hold a conversation on DevSecOps, Kubernetes, Test Automation and the few buzzwords which follow them.
 Focussed on client enablement with agile delivery. 
 
